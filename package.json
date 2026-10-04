@@ -1,0 +1,14 @@
+{
+  "name": "mon-projet",
+  "version": "1.0.0",
+  "description": "Projet RodiumAI - Exercice 3",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.5",
+    "rodiumai": "0.3.1"
+  }
+}
